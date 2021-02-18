@@ -318,6 +318,8 @@ int main(/* здесь могли быть ваши параметры */) {
 
     cout << "Function returned value: " << ret_value << endl;
 
+    cout << "Ramil changed the code" << endl;
+
     return 0; // возвращаем статус завершение программы (0 - ОК)
 }
 
