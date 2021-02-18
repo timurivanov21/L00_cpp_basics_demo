@@ -172,7 +172,7 @@ int main(/* здесь могли быть ваши параметры */) {
     printf("counter /= -1 => %d\n", counter);
 
     counter %= 2;
-    printf("counter %= 2 => %d\n", counter);
+    printf("counter mod 2 => %d\n", counter);
 
     // Explanation:
     // также существуют побитовые операторы ^=, ~=, |=, &=, <<=, >>=
