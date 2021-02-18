@@ -15,6 +15,11 @@
 
 ## Как запустить проект?
 
+Самый простой способ запуска проекта - это использование онлайн IDE.
+
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://repl.it/github/Algorthms-and-Data-Structures-2021/L00_cpp_basics_demo)
+
+
 Если Вы хотите внести изменения в проект и сохранить их у себя в репозитории, то Вам необходимо выполнить `Fork` проекта.
 Подробные инструкции можно прочесть по [ссылке](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 
