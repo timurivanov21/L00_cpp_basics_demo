@@ -48,7 +48,7 @@ string convert_to_bin_str_fmt(int /* bin_variable */);
 
 
 // функция main - входная точка программы
-int main(/* здесь могли быть ваши параметры */) {
+int main(/* здесь могли быть ваши параметры */int argc, char** argv) {
 
     // 1. Вывод в стандартный поток stdout
     cout << "Launching the program. Fasten your seat belts..." << endl;
