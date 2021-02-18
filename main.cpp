@@ -172,7 +172,7 @@ int main(/* здесь могли быть ваши параметры */) {
     printf("counter /= -1 => %d\n", counter);
 
     counter %= 2;
-    printf("counter %= 2 => %d\n", counter);
+    printf("counter mod 2 => %d\n", counter);
 
     // Explanation:
     // также существуют побитовые операторы ^=, ~=, |=, &=, <<=, >>=
@@ -317,8 +317,6 @@ int main(/* здесь могли быть ваши параметры */) {
     bool ret_value = print_int_return_bool(counter);
 
     cout << "Function returned value: " << ret_value << endl;
-
-    cout << "Ramil changed the code" << endl;
 
     return 0; // возвращаем статус завершение программы (0 - ОК)
 }
