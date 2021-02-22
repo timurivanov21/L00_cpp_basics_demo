@@ -29,7 +29,7 @@
 1. Клонируете проект к себе на компьютер.
 в терминале (консоли):
 ```shell
-git clone https://github.com/Algorthms-and-Data-Structures-2021/L00_cpp_basics_demo.git
+git clone https://github.com/Algorithms-and-Data-Structures-2021/L00_cpp_basics_demo.git
 ```
 или через среду разработки, клиента Git (например, [Git for Windows](https://git-scm.com/download/win) или [GitHub Desktop](https://desktop.github.com/)).
 
