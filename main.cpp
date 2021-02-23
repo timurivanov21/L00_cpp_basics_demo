@@ -318,6 +318,8 @@ int main(/* здесь могли быть ваши параметры */int arg
 
     cout << "Function returned value: " << ret_value << endl;
 
+    cout << "hello" << endl;
+
     return 0; // возвращаем статус завершение программы (0 - ОК)
 }
 
